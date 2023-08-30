@@ -1,0 +1,16 @@
+*,
+*::after,
+*::before{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.html{
+    font-size: 62.5%;
+}
+.container {
+    padding: 50px;
+    width: 1000px;
+    background-color: azure;
+}
